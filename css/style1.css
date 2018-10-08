@@ -1,0 +1,43 @@
+.placeholder{
+  position: relative;
+  left: 100px;
+  top:-30px;
+}
+.placeholder1{
+  position: relative;
+  left: 175px;
+  top:-30px;
+}
+
+.image{
+  position: absolute;
+  left: 540px;
+  top: 0;
+}
+.btn1{
+  position: absolute;
+  left: 610px;
+  top: 200px;
+}
+.btn{
+  position: fixed;
+  left: 350px;
+  top: 400px;
+}
+.password{
+  position: fixed;
+  left: 405px;
+  top: 250px;
+}
+
+.entry{
+  position: absolute;
+  left: 25px;
+  top: 15px;
+}
+
+.role{
+  position: absolute;
+  left: 25px;
+  top: 250px;
+}
